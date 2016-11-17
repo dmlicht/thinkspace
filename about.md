@@ -4,4 +4,5 @@ title: About
 permalink: /about/
 ---
 
-**Thinkspace** is just another minimalist Jekyll theme that focuses on technical writing. Designed for engineers to write their ranting and findings.
+**David Lichtenberg** is a NYC based machine learning specialist.
+He knows that real truth and smart predictions can only be based on looking at more information that the human brain could ever process.
