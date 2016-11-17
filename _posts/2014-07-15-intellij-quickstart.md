@@ -5,6 +5,8 @@ comments: false
 description: "This is a guide for quickly getting productive in Intellij. It's a mix of the notes I took while first learning the tool, and some insights reached after extensive use of the tool. Don't expect much talk of settings twiddling or code coverage tools."
 ---
 
+This is a guide for quickly getting productive in Intellij. It's a mix of the notes I took while first learning the tool, and some insights reached after extensive use of the tool. Don't expect much talk of settings twiddling or code coverage tools.
+
 First comes first, [Find Action By Name](https://www.jetbrains.com/help/idea/2016.2/navigating-to-action.html) is your new best friend (`⇧⌘A`). If you think there is a function Intellij should have, there is a good chance that it does. **Search Commands** is the quickest way to find and use it. It will also show you the shortcut to quickly jot down and commit to memory.
 
 * `⌘,` opens up preferences, which you can quickly search through by typing
